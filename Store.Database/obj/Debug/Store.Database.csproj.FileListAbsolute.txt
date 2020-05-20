@@ -15,3 +15,4 @@ C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Databas
 C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.csproj.GenerateResource.cache
 C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.Migrations.changeTable.resources
 C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.Migrations.CatImageUrl.resources
+C:\Users\МММ\source\repos\StoreProject\Store.Database\obj\Debug\Store.Database.Migrations.AddCategoryİmage.resources

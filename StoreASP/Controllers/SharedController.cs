@@ -27,7 +27,7 @@ namespace StoreASP.Controllers
             {
                 result.Data = new { success = false, Message = ex.Message };  // hazır formada mesaj göndərir
             }
-            return result;      //Burda səhf qaldı bu hissə düzəldilməlidir 
+            return result; 
         }
     }
 }

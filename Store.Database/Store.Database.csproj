@@ -59,6 +59,10 @@
     <Compile Include="Migrations\202005031639285_CatImageUrl.designer.cs">
       <DependentUpon>202005031639285_CatImageUrl.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005201524480_AddCategoryİmage.cs" />
+    <Compile Include="Migrations\202005201524480_AddCategoryİmage.designer.cs">
+      <DependentUpon>202005201524480_AddCategoryİmage.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShopContext.cs" />
@@ -79,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202005031639285_CatImageUrl.resx">
       <DependentUpon>202005031639285_CatImageUrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005201524480_AddCategoryİmage.resx">
+      <DependentUpon>202005201524480_AddCategoryİmage.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
